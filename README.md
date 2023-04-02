@@ -2,7 +2,7 @@
 First Robotics Competition Team #2515 Robot Code Repository
 ## _The End All Be All of Code Repos_
 
-[![2515 Team App Site](https://frc2515.teamapp.com)](https://frc2515.teamapp.com)
+[2515 Team App Site](https://frc2515.teamapp.com)
 
 ## Branches
 Each season shall have branches of its own.
